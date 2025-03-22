@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Future Projects
-- 📫 How to reach me nikapaila01@gmail.com
+- 📫 How to reach me nikanikolozipailodze@gmail.com
 
 
 <!---
